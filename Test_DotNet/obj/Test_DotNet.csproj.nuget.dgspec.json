@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lgoel\\Downloads\\i2v_dotnet_angular_test-main\\i2v_dotnet_angular_test-main\\Test_DotNet\\Test_DotNet.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lgoel\\Downloads\\i2v_dotnet_angular_test-main\\i2v_dotnet_angular_test-main\\Test_DotNet\\Test_DotNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lgoel\\Downloads\\i2v_dotnet_angular_test-main\\i2v_dotnet_angular_test-main\\Test_DotNet\\Test_DotNet.csproj",
+        "projectName": "Test_DotNet",
+        "projectPath": "C:\\Users\\lgoel\\Downloads\\i2v_dotnet_angular_test-main\\i2v_dotnet_angular_test-main\\Test_DotNet\\Test_DotNet.csproj",
+        "packagesPath": "C:\\Users\\lgoel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lgoel\\Downloads\\i2v_dotnet_angular_test-main\\i2v_dotnet_angular_test-main\\Test_DotNet\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lgoel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lgoel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lgoel\\.nuget\\packages"
+    ]
+  }
+}
